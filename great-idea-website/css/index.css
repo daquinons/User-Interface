@@ -151,3 +151,9 @@ section {
 .contact p {
 	margin-bottom: 15px;
 }
+
+footer {
+	font-size: 13px;
+	text-align: center;
+	padding-bottom: 65px;
+}
