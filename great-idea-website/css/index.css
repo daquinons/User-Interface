@@ -92,8 +92,7 @@ header {
 
 div.header-right, div.header-left {
 	display: inline-block;
-	height: 400px;
-	width: 400px;
+	width: 49%;
 	vertical-align: middle;
   }
 
