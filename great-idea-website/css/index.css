@@ -65,6 +65,10 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+body {
+	margin: 50px;
+}
+
 nav {
 	text-align: center;
 	margin-top: 15px;
@@ -115,3 +119,31 @@ h1 {
 	padding: 3px 40px;
 }
 
+hr {
+	border-top: 1px solid black;
+}
+
+section {
+	margin: 40px 0px;
+}
+
+.top-content {
+	display: flex;
+	justify-content: center;
+}
+
+.top-paragraph {
+	display: inline-block;
+	width: 50%;
+	margin-right: 10px;
+}
+
+.centerer {
+	text-align: center;
+}
+
+.bottom-paragraph {
+	display: inline-block;
+	width: 30%;
+	margin-right: 10px;
+}
