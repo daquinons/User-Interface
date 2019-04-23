@@ -127,14 +127,11 @@ section {
 	margin: 40px 0px;
 }
 
-.top-content {
-	display: flex;
-	justify-content: center;
-}
+
 
 .top-paragraph {
 	display: inline-block;
-	width: 50%;
+	width: 49%;
 	margin-right: 10px;
 }
 
